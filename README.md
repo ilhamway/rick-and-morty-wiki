@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-[https://rick-and-morty-ilham.netlify.app/]
+[https://rick-and-morty-ilham.netlify.app/](https://rick-and-morty-ilham.netlify.app/)
 
 ## Available Scripts
 
